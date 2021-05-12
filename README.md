@@ -1,2 +1,2 @@
 ### Hello 👋 This is MahdiPakravan
-Trying To be a Fullstack Develope
+Trying To be a Fullstack Developer
