@@ -16,6 +16,5 @@
 
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-mahdipakravan79@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mahdipakravan79@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
 
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6 align="center">Made with ❤️ by Me</h6>
