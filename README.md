@@ -6,7 +6,7 @@
 ### i currently working at iGapMessenger at Front-end Teamlead .
 
 ## By the way here are some of my statistics 🚀
-https://www.codewars.com/users/mahdipakravan/badges/large
+<img src="https://www.codewars.com/users/mahdipakravan/badges/large" alt="codewars"/>
 ![Mahdi github stats](https://github-readme-stats.vercel.app/api?username=engpakravan&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=engpakravan&theme=tokyonight" alt="mystreak"/>
 ![Mahdi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engpakravan&theme=tokyonight&layout=compact)
