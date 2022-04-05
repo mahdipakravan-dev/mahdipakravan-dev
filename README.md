@@ -1,21 +1,10 @@
-<h1 align="center">Hello <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h2 align='center'>Hello guys, Welcome to my account. 👨🏻‍💻 </h2>
 
-### :smiley_cat: This is Mahdi Pakravan
-
-### i can made my dream using MERN Stack Development 😄
-### i currently working at iGapMessenger at Front-end Teamlead .
+- 🙋🏻‍♂️ I am currently working at KianSTDG as Frontend Teamlead
+- 📈 I love to improve my workflow by developing tiny apps in my need.
+- 🔭 My goal for 2022 is to publish my startup using my custom framework and <b>OpenSource Projects</b>
+- ✉️ Reach me via [mahdipakravan79@gmail.com](mailto:mahdipakravan79@gmail.com)
 
 ## By the way here are some of my statistics 🚀
 <img src="https://www.codewars.com/users/mahdipakravan/badges/large" alt="codewars"/>
-![Mahdi github stats](https://github-readme-stats.vercel.app/api?username=engpakravan&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=engpakravan&theme=tokyonight" alt="mystreak"/>
-![Mahdi Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engpakravan&theme=tokyonight&layout=compact)
-
-🌱 I’m currently learning Front-end Development
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-mahdipakravan79@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:mahdipakravan79@gmail.com)](asthiseta@gmail.com)
-
-<h6 align="center">Made with ❤️ by Me</h6>
+<img align='center' alt="MahdiPakravan GitHub stats" src='https://github-readme-stats.vercel.app/api?username=engpakravan&count_private=true&show-icons=true&theme=tokyonight' />
