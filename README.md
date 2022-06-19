@@ -8,9 +8,9 @@
 <br/>
 <h2>my Projects in 2022</h2>
 
-- iGapTV                  | ⚒️Working(FullTime)⚒️ | July         |
-- MahdiPakravan.ir        | ⚒️Working(Sun,Wed)⚒️  | Aug          |
-- Web.iGap With New UI    | ⚒️Working(FullTime)⚒️ | Apr          |
+- iGapTV                  | ⚒️Status : Working(FullTime | Release : ⌛July|
+- MahdiPakravan.ir        | ⚒️Status : Working(Sun,Wed)  | Release : ⌛Aug |
+- Web.iGap With New UI    | ⚒️Status : Working(FullTime) | Release : ⌛Apr |
 
 <br/>
 <h2>Skills</h2>
