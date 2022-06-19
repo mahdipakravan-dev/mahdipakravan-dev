@@ -3,8 +3,15 @@
 - 🙋🏻‍♂️ I am currently working at KianSTDG as Frontend Teamlead
 - 📈 I usally work with `Typescript` , `React & Next.js (PWA)` , `Node.js & Nest.js` , `Redis & Mongo`
 - 🔭 My goal for 2022 is to publish my startup using my custom framework and <u>OpenSource Projects</u>
-- ⚒️ I Working on <b>iGap</b> & <b>iGapTV</b> Projects
 - ✉️ Reach me via [mahdipakravan79@gmail.com](mailto:mahdipakravan79@gmail.com)
+
+<br/>
+<h2>my Projects in 2022</h2>
+| ProjectName | Status | Release On : |
+| :---         |     :---:      |          ---: |
+| iGapTV   | ⚒️Working(FullTime)⚒️     | July    |
+| MahdiPakravan.ir   | ⚒️Working(Sun,Wed)⚒️     | Aug    |
+| Web.iGap With New UI    | ⚒️Working(FullTime)⚒️     | Apr    |
 
 <br/>
 <h2>Skills</h2>
