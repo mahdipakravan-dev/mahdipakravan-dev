@@ -15,8 +15,9 @@
   </a>
 </p>
 
+<br/>
 <h2> By the way here are some of my statistics 🚀 </h2>
-<p align="center">
+<p align="left">
   <img src="https://www.codewars.com/users/mahdipakravan/badges/large" alt="codewars"/>
   <img align='center' alt="MahdiPakravan GitHub stats" src='https://github-readme-stats.vercel.app/api?username=engpakravan&count_private=true&show-  icons=true&theme=tokyonight' /> 
 </p>
