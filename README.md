@@ -7,11 +7,11 @@
 
 <br/>
 <h2>my Projects in 2022</h2>
-| ProjectName | Status | Release On : |
-| :---         |     :---:      |          ---: |
-| iGapTV   | ⚒️Working(FullTime)⚒️     | July    |
-| MahdiPakravan.ir   | ⚒️Working(Sun,Wed)⚒️     | Aug    |
-| Web.iGap With New UI    | ⚒️Working(FullTime)⚒️     | Apr    |
+| ProjectName             | Status                 | Release On : |
+| :---                    | :---:                  |         ---: |
+| iGapTV                  | ⚒️Working(FullTime)⚒️ | July         |
+| MahdiPakravan.ir        | ⚒️Working(Sun,Wed)⚒️  | Aug          |
+| Web.iGap With New UI    | ⚒️Working(FullTime)⚒️ | Apr          |
 
 <br/>
 <h2>Skills</h2>
