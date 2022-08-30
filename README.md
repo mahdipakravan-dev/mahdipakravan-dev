@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **soccer , PES , CallOfDuty**
 
-https://www.codewars.com/users/mahdipakravan/badges/large
+<img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg](https://www.codewars.com/users/mahdipakravan/badges/large)" alt="mahdipakravan-codewar" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
