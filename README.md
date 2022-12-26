@@ -9,17 +9,15 @@
 
 - 🤝 I’m looking for help with **MernStack Development**
 
-- 👨‍💻 All of my projects are available at [mahdipakravan.ir](mahdipakravan.ir)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahdipakravan/](https://www.linkedin.com/in/mahdipakravan/)
+- 👨‍💻 All of my projects are available at [mahdipakravan.ir](mahdipakravan.ir) comming soon...
 
 - 💬 Ask me about **Software Engineering & DesignPattern & algorithm**
 
-- 📫 How to reach me **mahdipakravan79@gmail.com**
+- 📫 How to reach me **mahdipakravan.dev@gmail.com**
 
-- 📄 Know about my experiences [mahdipakravan.ir](mahdipakravan.ir)
+- 📄 Know about my experiences [mahdipakravan.ir](mahdipakravan.ir) comming soon...
 
-- ⚡ Fun fact **soccer , PES , CallOfDuty**
+- ⚡ Fun fact **🎻Violin , soccer , VideoGames**
 
 <img align="center" src="https://www.codewars.com/users/mahdipakravan/badges/large" alt="mahdipakravan-codewar" />
 
