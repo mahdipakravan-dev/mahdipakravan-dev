@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm MahdiPakravan</h1>
 <h3 align="center">A passionate MernStackDeveloper from Iran 🇮🇷</h3>
 
-- 🔭 I’m currently working on [KianIranian(iGapMessenger)](web.igap.net)
+- 🔭 working on [KianIranian(iGapMessenger)](web.igap.net)
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🚀 my current project is [Refactjs](https://github.com/refactjs)
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 🌱 learning **Frontend Engineering**
 
-- 🤝 I’m looking for help with **MernStack Development**
+- 👯 looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [mahdipakravan.ir](mahdipakravan.ir) comming soon...
-
-- 💬 Ask me about **Software Engineering & DesignPattern & algorithm**
+- 💬 Ask me about **Software/Frontend Engineering & DesignPattern & algorithm**
 
 - 📫 How to reach me **mahdipakravan.dev@gmail.com**
-
-- 📄 Know about my experiences [mahdipakravan.ir](mahdipakravan.ir) comming soon...
 
 - ⚡ Fun fact **🎻Violin , soccer , VideoGames**
 
